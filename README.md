@@ -17,9 +17,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Scikit-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="30" alt="scikit-learn logo" />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="30" alt="pytest logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Scikit-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="30" alt="scikit-learn logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="pytorch logo" />
   <img width="12" />
