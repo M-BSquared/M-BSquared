@@ -41,5 +41,7 @@
   <img width="12" />
   <a href="https://podman.io/" target="_blank"><img src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white&style=for-the-badge" height="30" alt="podman logo" /></a>
   <img width="12" /><br>
+ <!--<a href="https://www.ui.com/" target="_blank"><img src="https://img.shields.io/badge/Ubiquiti-0559C9?logo=ubiquiti&logoColor=white&style=for-the-badge" height="30" alt="ubiquiti logo" /></a>
+<img width="12" />-->
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo" /></a>
 </div>
