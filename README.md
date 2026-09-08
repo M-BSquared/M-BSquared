@@ -7,9 +7,9 @@
   <img width="12" />
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" /></a>
   <img width="12" />
-  <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank"><img src="https://img.shields.io/badge/Miniconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="anaconda logo" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript logo" /></a>
   <img width="12" />
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo" /></a>
+  <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank"><img src="https://img.shields.io/badge/Miniconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="anaconda logo" /></a>
   <img width="12" />
   <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-FF6F00?logo=jupyter&logoColor=white&style=for-the-badge" height="30" alt="jupyter logo" /></a>
   <img width="12" /><br>
